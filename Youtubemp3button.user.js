@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         YouTube MP3 Button
 // @namespace    https://www.youtubeinmp3.com
-// @version      1.0
+// @version      1.1
 // @description  Adds a download button to YouTube videos which allows you to download the MP3 of the video without having to leave the page
 // @author       Nilotpal
 // @include      http*://*.youtube.com/*
